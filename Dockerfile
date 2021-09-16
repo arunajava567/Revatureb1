@@ -1,6 +1,6 @@
 FROM openjdk:8
 
-ADD target/Project3-0.0.1-SNAPSHOT.jar    Project3-0.0.1-SNAPSHOT.jar.jar
+ADD target/Project3-0.0.1-SNAPSHOT.jar    Project3-0.0.1-SNAPSHOT.jar
 
 EXPOSE 8080
 
