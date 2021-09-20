@@ -14,7 +14,7 @@ public class Project3Application {
 	}
 	@RequestMapping("/project3")
 	public String hello() {
-		return "Project3 deployment in EC2";
+		return "Project3 deployment in vvvEC2";
 	}
 
 }
